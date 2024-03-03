@@ -1,0 +1,22 @@
+/* container:
+center, 
+background-color(grey), 
+size(width, height, )
+rounded */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+body{
+    background-color: grey;
+    font-family: "Outfit", sans-serif;
+}
+.main{
+    width:30%;
+    background-color:white;
+    border-radius: 10px;
+    margin:70px auto;
+    padding: 20px;
+    text-align: center;
+}
+.image{
+    width: 100%;
+    border-radius: 10px;
+}
